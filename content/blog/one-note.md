@@ -6,10 +6,6 @@ tags:
   - post
 ---
 
-In one night, I successfully started a new pipeline.
+I successfully started a new publishing pipeline. I have a basic publishing output process using Obsidian notes, pushed into Eleventy and potentially going to use some HTMX to add interaction. It currently uses netlify, but there is no reason it could not work on any static hosting platform after being built?
 
-I have a basic publishing output process using Obsidian, pushed into Eleventy and potentially going to use some HTMX
-
-Launching this today! And seeing where it goes
-
-
+Launching this today! And seeing where it goes.
