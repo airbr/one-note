@@ -1,5 +1,5 @@
 ---
-title: One Note Beginnings
+title: One Note to rule them all
 date: 2023-01-23
 draft: false
 tags: 

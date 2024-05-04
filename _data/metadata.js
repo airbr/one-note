@@ -1,6 +1,6 @@
 module.exports = {
-	title: "Obsidian -> Eleventy -> HTMX",
-	url: "https://example.com/",
+	title: "A digital gardening project",
+	url: "https://morganwebdev.netlify.app/",
 	language: "en",
 	description: "I am writing about web development.",
 	author: {
