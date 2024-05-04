@@ -74,6 +74,13 @@ module.exports = function(eleventyConfig) {
 		return Array.from(tagSet);
 	});
 
+	eleventyConfig.addCollection('posts', collections => {
+	// get all posts by tag 'post'
+	return collections.getFilteredByTag('post')
+		// exclude all drafts
+		.filter(post => !Boolean(post.data.draft))
+	});
+
 	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
