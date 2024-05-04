@@ -1,6 +1,6 @@
 ---
 title: New beginnings
-date: 2023-01-23
+date: 2024-05-01
 draft: false
 tags: 
   - post
