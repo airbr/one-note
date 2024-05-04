@@ -1,5 +1,5 @@
 ---
-title: One Note to rule them all
+title: New beginnings
 date: 2023-01-23
 draft: false
 tags: 
@@ -10,6 +10,6 @@ In one night, I successfully started a new pipeline.
 
 I have a basic publishing output process using Obsidian, pushed into Eleventy and potentially going to use some HTMX
 
-Launching this today!
+Launching this today! And seeing where it goes
 
 
