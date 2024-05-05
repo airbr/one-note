@@ -12,7 +12,7 @@ For an early birthday gift I received a CanaKit Raspberry Pi 5 Starter Kit.
 
 I have had small extra computers before and while they were great I have not put one into a specific use case that has made a particular lasting impact. 
 
-{% image "./rasp5.jpeg", "A Raspberry Pi Starter Kit" %}
+{% image "./rasp5.jpeg", "A Raspberry Pi Starter Kit", [400], "(max-width: 400px) 400px, auto" %}
 
 However, I am full of optimism! 
 

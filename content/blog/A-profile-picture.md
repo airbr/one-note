@@ -10,6 +10,6 @@ tags:
 
 I've used this everywhere, may as well here.
 
-{% image "./profile.png", "A profile picture of me standing" %}
+{% image "./profile.png", "A profile picture of me standing", [auto] %}
 
 Delivered with [https://www.11ty.dev/docs/plugins/image/](https://www.11ty.dev/docs/plugins/image/)
