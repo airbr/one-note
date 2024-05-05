@@ -8,5 +8,6 @@ eleventyNavigation:
 
 Some websites Ive made:
 
-* [My blog](https://morganwebdev.org)
+* [My web development blog](https://morganwebdev.org)
 * [My website](https://morganwebdev.com)
+* [Coffee Crawl 2024](https://coffeecrawl2024.netlify.app)
