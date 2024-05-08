@@ -6,8 +6,8 @@ eleventyNavigation:
 ---
 # About Me
 
-Some websites Ive made:
+Some websites I have made:
 
-* [My web development blog](https://morganwebdev.org)
-* [My website](https://morganwebdev.com)
+* [My Hugo generated web development blog](https://morganwebdev.org)
+* [My old phone website 2016-2024, home page](https://morganwebdev-phone.netlify.app/)
 * [Coffee Crawl 2024](https://coffeecrawl2024.netlify.app)

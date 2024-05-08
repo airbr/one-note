@@ -1,6 +1,6 @@
 module.exports = {
 	title: "A digital gardening project",
-	url: "https://morganwebdev.netlify.app/",
+	url: "https://morganwebdev.com/",
 	language: "en",
 	description: "Writing about web development.",
 	author: {
