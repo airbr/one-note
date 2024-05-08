@@ -6,11 +6,12 @@ eleventyNavigation:
 ---
 # About Me
 
-Some websites I have made:
+### Some websites I have made:
 
 * [My Hugo generated web development blog](https://morganwebdev.org)
 * [My old phone website 2016-2024, home page](https://morganwebdev-phone.netlify.app/)
 * [Coffee Crawl 2024](https://coffeecrawl2024.netlify.app)
+* [A website honoring the Treaty of Waitangi](https://tiriti.netlify.app/)
 
 ---
 
@@ -21,10 +22,10 @@ Some websites I have made:
     <label>Your Name: <input type="text" name="name" /></label>
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
+    <label>Your Email: <input type="email" name="email" required placeholder="youremail@example.com" /></label>
   </p>
   <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <label>Message: <textarea name="message" required></textarea></label>
   </p>
   <p>
     <button type="submit">Send</button>
