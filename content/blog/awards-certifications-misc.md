@@ -1,5 +1,5 @@
 ---
-title: Awards and certifications, misc.
+title: Awards and certifications
 date: 2024-05-12
 time: 18:31
 draft: false
@@ -11,10 +11,11 @@ tags:
   - BA
   - LLB
   - Otago
+  - web-performance
 ---
 # Undergraduate Degrees
-* [LLB Otago University](https://www.otago.ac.nz/courses/qualifications/llb) -- [December 2013](https://www.odt.co.nz/news/dunedin/university-otago-graduands-december-14-2013)
-* [BA Classics/English Otago University](https://www.otago.ac.nz/courses/subjects/clas) -- [August 2013](https://www.odt.co.nz/news/dunedin/university-otago-graduation-17-august-2013-%E2%80%93-3pm-ceremony)
+* [LLB Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/qualifications/llb) -- [December 2013](https://www.odt.co.nz/news/dunedin/university-otago-graduands-december-14-2013)
+* [BA Classics/English Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/subjects/clas) -- [August 2013](https://www.odt.co.nz/news/dunedin/university-otago-graduation-17-august-2013-%E2%80%93-3pm-ceremony)
 # Certifications & Certificates
 
 * [Lightning-Fast Web Performance Certificate of Achievement -- 2023](https://www.webpagetest.org/learn/lightning-fast-web-performance/)
@@ -27,7 +28,7 @@ tags:
 
 # Open Source Contributions
 
-* [Created 11 Closed Issues and several credits for contributions to the Web Sustainability Guidelines](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3Aairbr+is%3Aclosed+)
+* [Created 11 now closed Issues and received several credits for contributions to the Web Sustainability Guidelines by W3C Community Group on Sustainable Web Design](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3Aairbr+is%3Aclosed+)
 	* Credited in v6 of the Draft
 # Workplace Awards
 

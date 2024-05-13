@@ -7,7 +7,7 @@ numberOfLatestPostsToShow: 3
 ---
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %} on Morgan's website</h1>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
@@ -17,6 +17,12 @@ numberOfLatestPostsToShow: 3
 {% if morePosts > 0 %}
 <p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
 {% endif %}
+
+<i>me... circa 2016</i>
+<div class="profile-picture">
+	<a href="/">
+{% image "../content/blog/profile.png", "My profile picture", [200], "(max-width: 200px) 200px, auto" %}
+</a>
 
 {# List every content page in the project #}
 {#

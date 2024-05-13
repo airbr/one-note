@@ -6,13 +6,12 @@ eleventyNavigation:
 ---
 # About Me
 
-### Some websites I have made:
+### Some webpages I have made:
 
-* [My Hugo generated web development blog](https://morganwebdev.org)
+* [A list of my degrees, certificates and awards](/blog/awards-certifications-misc/)
+* [My Hugo Static Site generated web development blog](https://morganwebdev.org)
 * [My old phone website 2016-2024, home page](https://morganwebdev-phone.netlify.app/)
 * [Coffee Crawl 2024](https://coffeecrawl2024.netlify.app)
-* [A website honoring the Treaty of Waitangi](https://tiriti.netlify.app/)
-
 ---
 
 <h3> A handy contact form: </h3>

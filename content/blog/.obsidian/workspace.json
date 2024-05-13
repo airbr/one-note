@@ -35,11 +35,9 @@
             "id": "9dc98128c8ab2b13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "awards-certifications-misc.md",
-                "mode": "source",
-                "source": false
+                "file": "profile.png"
               }
             }
           },
@@ -130,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "awards-certifications-misc.md",
+                "file": "profile.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "awards-certifications-misc.md",
+                "file": "profile.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "awards-certifications-misc.md"
+                "file": "profile.png"
               }
             }
           }
@@ -194,8 +192,8 @@
   },
   "active": "9dc98128c8ab2b13",
   "lastOpenFiles": [
-    "toolhouse.com.md",
     "awards-certifications-misc.md",
+    "toolhouse.com.md",
     "rasp5.jpeg",
     "raspberry-pi.md",
     "raspberry-pi-continued.md",
