@@ -12,5 +12,7 @@ I successfully built the computer from the starter kit and installed some softwa
 
 Next I may try and run WebPageTest or SiteSpeed on it!
 
+## Update: According to one of the contributors to sitespeed it works on a Raspberry Pi 5 to run with Android phones. 
+
 
 
