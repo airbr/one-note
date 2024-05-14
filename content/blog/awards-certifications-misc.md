@@ -12,6 +12,8 @@ tags:
   - LLB
   - Otago
   - web-performance
+  - open source
+  - conferences
 ---
 # Undergraduate Degrees
 * [LLB Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/qualifications/llb) -- [2013](https://www.odt.co.nz/news/dunedin/university-otago-graduands-december-14-2013)
@@ -30,7 +32,13 @@ tags:
 
 # Open Source Contributions
 
-* [Contributor to the Web Sustainability Guidelines 1.0 by the W3C Community Group on Sustainable Web Design](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3Aairbr+is%3Aclosed+)
+* [Contributor to 5 Draft Releases of the Web Sustainability Guidelines 1.0 by the W3C Sustainable Web Design Community Group](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3Aairbr+is%3Aclosed+)
+> [v1.0-D2](https://github.com/w3c/sustyweb/releases/tag/v1.0-D2)
+[v1.0-D3](https://github.com/w3c/sustyweb/releases/tag/v1.0-D3)
+[v1.0-D4](https://github.com/w3c/sustyweb/releases/tag/v1.0-D4)
+[v1.0-D5](https://github.com/w3c/sustyweb/releases/tag/v1.0-D5)
+[v1.0-D6](https://github.com/w3c/sustyweb/releases/tag/v1.0-D6)
+
 
 * [MDN Web Docs glossary contribution](https://github.com/mdn/content/pull/24346#issuecomment-1493051463)
 
@@ -40,7 +48,7 @@ tags:
 
 * [Civic Tech Atlanta -- MARTA Hackathon 2016](https://www.civictechatlanta.org/)
 
-* [Award winning team: GovHack 2015](https://www.odt.co.nz/news/dunedin/dunedin-website-team-wins-nationwide-competition)
+* [Award winning hackathon team: GovHack 2015](https://www.odt.co.nz/news/dunedin/dunedin-website-team-wins-nationwide-competition)
 
 # Conferences 
 
