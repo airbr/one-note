@@ -1,5 +1,5 @@
 ---
-title: Awards and certifications
+title: Awards, certificates & certifications
 date: 2024-05-12
 time: 18:31
 draft: false
@@ -20,15 +20,13 @@ tags:
 
 * [Lightning-Fast Web Performance Certificate of Achievement -- 2023](https://www.webpagetest.org/learn/lightning-fast-web-performance/)
 
-{% image "./Morgan-Murrah-lightning-fast-web-performance.png", "Lightning-Fast Web Performance certificate of achievement by Morgan Murrah", [500], "(max-width: 500px) 500px, auto" %}
-
 * Web Development Immersive (12 weeks) Completion -- General Assembly Atlanta 2016
 
 * [Enrolled Barrister and Solicitor of the High Court of New Zealand -- March 2015](https://www.lawsociety.org.nz/starting-as-a-lawyer/admitted-but-no-practising-certificate/)
 
 # Open Source Contributions
 
-* [Created 11 now closed Issues and received several credits for contributions to the Web Sustainability Guidelines by W3C Community Group on Sustainable Web Design](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3Aairbr+is%3Aclosed+)
+* [Contributor to the Web Sustainability Guidelines 1.0 by the W3C Community Group on Sustainable Web Design](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3Aairbr+is%3Aclosed+)
 
 * [MDN Web Docs glossary contribution](https://github.com/mdn/content/pull/24346#issuecomment-1493051463)
 
