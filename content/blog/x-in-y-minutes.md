@@ -1,5 +1,5 @@
 ---
-title: Learn X in Y Minutes, HTML
+title: Learn X in Y Minutes, HTML edition
 date: 2024-05-13
 time: 22:31
 draft: false
@@ -10,7 +10,7 @@ tags:
   - HTML
 ---
 
-## [Highlight: HTML Tour from Learn X in Y Minutes](https://learnxinyminutes.com/)
+## [Highlight: here is a slightly modified HTML Tour from Learn X in Y Minutes](https://learnxinyminutes.com/)
 
 
 {% highlight "html" %}
@@ -50,7 +50,7 @@ tags:
     </html>
 
 <!--
-    An HTML file always starts by indicating to the browser that the page is HTML.
+    An HTML file should always starts by indicating to the browser that the page is HTML.
 -->
 <!doctype html>
 
@@ -91,7 +91,7 @@ tags:
     -->
 
     <!-- a hyperlink to the url given by the attribute href="" -->
-    <a href="http://codepen.io/anon/pen/xwjLbZ">
+    <a href="http://morganwebdev.com">
         Come look at what this shows
     </a>
 
@@ -120,33 +120,8 @@ tags:
     The source of the image is indicated using the attribute src=""
     The source can be an URL or even path to a file on your computer.
 -->
-<img src="http://i.imgur.com/XWG0O.gif"/>
+<img src=""/>
 
-<!-- It is also possible to create a table. -->
-
-<!-- We open a <table> element. -->
-<table>
-
-    <!-- <tr> allows us to create a row. -->
-    <tr>
-
-        <!-- <th> allows us to give a title to a table column. -->
-        <th>First Header</th>
-        <th>Second Header</th>
-    </tr>
-
-    <tr>
-
-        <!-- <td> allows us to create a table cell. -->
-        <td>first row, first column</td>
-        <td>first row, second column</td>
-    </tr>
-
-    <tr>
-        <td>second row, first column</td>
-        <td>second row, second column</td>
-    </tr>
-</table>
 {% endhighlight %}
 
 
