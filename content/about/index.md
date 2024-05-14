@@ -8,9 +8,9 @@ eleventyNavigation:
 
 * [A list of my degrees, certificates, awards and misc.](/blog/awards-certifications-misc/)
 ---
-* [My Static Site Generator created web development blog](https://morganwebdev.org)
+* [My web development blog](https://morganwebdev.org)
 ---
-* [My old website 2016-2024, home page](https://morganwebdev-phone.netlify.app/)
+* [My old main website 2016-2024, home page](https://morganwebdev-phone.netlify.app/)
 ---
 
 <h3> A handy contact form: </h3>
