@@ -27,7 +27,7 @@ tags:
 
 * [Enrolled Barrister and Solicitor of the High Court of New Zealand -- 2015](https://www.lawsociety.org.nz/starting-as-a-lawyer/admitted-but-no-practising-certificate/)
 
-* [Professional Legal Studies Certification -- 2014](https://www.collaw.ac.nz/)
+* [Professional Legal Studies Certificate of Completion -- 2014](https://www.collaw.ac.nz/)
 
 
 # Open Source Contributions
@@ -52,16 +52,17 @@ tags:
 
 # Conferences 
 
-* Linuxfest Northwest -- Bellingham, WA 2019
-* WeRise Tech -- Atlanta, GA 2017
-* PHP\[tek\] -- Atlanta, GA 2017
-* Connect.Tech -- Atlanta, GA 2016
-* Kiwicon Information Security Conference -- Wellington, New Zealand 2013
+* Linuxfest Northwest -- Attended -- Bellingham, WA 2019
+* WeRise Tech -- Volunteer -- Atlanta, GA 2017
+* PHP\[tek\] -- Volunteer -- Atlanta, GA 2017
+* Connect.Tech -- Volunteer -- Atlanta, GA 2016
+* Kiwicon Information Security Conference -- Attended -- Wellington, New Zealand 2013
 
 # Cofounder
 
-* [Law For Change -- founding member 2012-2013](https://www.lawforchange.co.nz/)
+* [Law For Change -- founding member of registered charity -- Dunedin, New Zeland 2012-2013](https://www.lawforchange.co.nz/)
   * Attended a founding Hui at Auckland Airport Marae, helped fund raise money for projects and contributed to Parliamentary Select Committee submissions. Happy to report the charity is vibrant and active in 2024
+
 # Workplace Awards
 
 * Workplace culture award for inventiveness - [Toolhouse](https://toolhouse.com) company gala 2023
