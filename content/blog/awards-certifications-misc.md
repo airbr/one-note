@@ -29,7 +29,12 @@ tags:
 # Open Source Contributions
 
 * [Created 11 now closed Issues and received several credits for contributions to the Web Sustainability Guidelines by W3C Community Group on Sustainable Web Design](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3Aairbr+is%3Aclosed+)
-	* Credited in v6 of the Draft
+
+* [MDN Web Docs glossary contribution](https://github.com/mdn/content/pull/24346#issuecomment-1493051463)
+
+* [WebPageTest documentation small fix](https://github.com/WPO-Foundation/webpagetest-docs/pull/81)
+
+* [Award winning team: GovHack 2015](https://www.odt.co.nz/news/dunedin/dunedin-website-team-wins-nationwide-competition)
 # Workplace Awards
 
 * Workplace culture award for inventiveness - [Toolhouse](https://toolhouse.com) company gala 2023
