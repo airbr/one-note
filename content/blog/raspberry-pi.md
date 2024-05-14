@@ -20,3 +20,12 @@ However, I am full of optimism! I could:
 * Use it with writing apps to create a separate working environment for fewer distractions
 
 Currently working on more ideas. Excited.
+
+---
+
+I successfully built the computer from the starter kit and installed some software including VS Code. Ran it in desktop mode. It is reasonably performant. 
+
+Next I may try and run WebPageTest or SiteSpeed on it!
+
+## Update: According to one of the contributors to sitespeed it works on a Raspberry Pi 5 to run with Android phones. 
+

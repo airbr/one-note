@@ -2,7 +2,7 @@
 title: Raspberry Pi progress
 date: 2024-05-07
 time: 23:53
-draft: false
+draft: true
 tags:
   - post
   - raspberry-pi
