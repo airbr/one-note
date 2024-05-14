@@ -14,13 +14,13 @@ tags:
   - web-performance
 ---
 # Undergraduate Degrees
-* [LLB Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/qualifications/llb) -- [December 2013](https://www.odt.co.nz/news/dunedin/university-otago-graduands-december-14-2013)
-* [BA Classics/English Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/subjects/clas) -- [August 2013](https://www.odt.co.nz/news/dunedin/university-otago-graduation-17-august-2013-%E2%80%93-3pm-ceremony)
+* [LLB Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/qualifications/llb) -- [2013](https://www.odt.co.nz/news/dunedin/university-otago-graduands-december-14-2013)
+* [BA Classics/English Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/subjects/clas) -- [2013](https://www.odt.co.nz/news/dunedin/university-otago-graduation-17-august-2013-%E2%80%93-3pm-ceremony)
 # Certifications & Certificates
 
-* [Lightning-Fast Web Performance Certificate of Achievement -- 2023](https://www.webpagetest.org/learn/lightning-fast-web-performance/)
+* [Lightning-Fast Web Performance Certificate of Achievement -- 2023](/img/Morgan-Murrah-lightning-fast-web-performance.png)
 
-* Web Development Immersive (12 weeks) Completion -- General Assembly Atlanta 2016
+* General Assembly Atlanta Web Development Immersive -- 2016
 
 * [Enrolled Barrister and Solicitor of the High Court of New Zealand -- March 2015](https://www.lawsociety.org.nz/starting-as-a-lawyer/admitted-but-no-practising-certificate/)
 
