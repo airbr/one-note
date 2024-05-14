@@ -6,9 +6,7 @@ eleventyNavigation:
 ---
 # About Me
 
-### Some webpages I have made:
-
-* [A list of my degrees, certificates and awards](/blog/awards-certifications-misc/)
+* [A list of my degrees and awards](/blog/awards-certifications-misc/)
 * [My Hugo Static Site generated web development blog](https://morganwebdev.org)
 * [My old phone website 2016-2024, home page](https://morganwebdev-phone.netlify.app/)
 * [Coffee Crawl 2024](https://coffeecrawl2024.netlify.app)
