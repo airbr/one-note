@@ -13,9 +13,13 @@ tags:
 ---
 
 
-<br>
-<br>
-<br>
+* [Contributor to 5 Draft Releases of the Web Sustainability Guidelines 1.0 by the W3C Sustainable Web Design Community Group](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3Aairbr+is%3Aclosed+):
+
+  * [v1.0-D2](https://github.com/w3c/sustyweb/releases/tag/v1.0-D2)
+  * [v1.0-D3](https://github.com/w3c/sustyweb/releases/tag/v1.0-D3)
+  * [v1.0-D4](https://github.com/w3c/sustyweb/releases/tag/v1.0-D4)
+  * [v1.0-D5](https://github.com/w3c/sustyweb/releases/tag/v1.0-D5)
+  * [v1.0-D6](https://github.com/w3c/sustyweb/releases/tag/v1.0-D6)
 
   
 <div class="icon"><a href="https://www.w3.org/community/sustyweb/participants#:~:text=and%20nominate%20participant%3A-,Beau%20Murrah,-Individual%20CLA%20commitment" itemprop="sameAs" rel="me" class="u-url">
