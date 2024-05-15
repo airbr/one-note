@@ -1,3 +1,29 @@
+.postlist a {
+	/* flex: 1; */
+	text-decoration: underline;
+	outline-color: transparent;
+	text-align: left;
+	line-height: 3;
+	color: black;
+	display: inline;
+  }
+  
+  .postlist a:link,
+  .postlist a:visited,
+  .postlist a:focus {
+	background: white;
+	color: black;
+  }
+  
+  .postlist a:hover {
+	background: lightblue;
+  }
+  
+  .postlist a:active {
+	background: lightgreen;
+	color: white;
+  }
+
 
 picture img, p img {
     max-width: 100%;
@@ -8,7 +34,7 @@ picture img, p img {
 	text-align: center;
 }
 .me {
-	text-align: center;
+	text-align: left;
 }
 
 footer {
