@@ -10,8 +10,13 @@ tags:
   - HTML
 ---
 
-## [Highlight: here is a slightly modified HTML Tour from Learn X in Y Minutes](https://learnxinyminutes.com/)
+# [Click to jump to my version of Learn Semantic HTML and Basics](#myhtml)
 
+---
+
+# X in Y Minutes introduction version:
+
+#### [Highlight: here is a slightly modified HTML Tour from Learn X in Y Minutes](https://learnxinyminutes.com/)
 
 {% highlight "html" %}
 <!-- Comments are enclosed like this line! -->
@@ -124,5 +129,61 @@ tags:
 
 {% endhighlight %}
 
-
 [CC BY-SA 3.0 DEED](https://creativecommons.org/licenses/by-sa/3.0/deed.en) -- Some changes
+
+
+# <a id="myhtml">Semantic HTML and Metadata Basics</a>
+
+{% highlight "html" %}
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="css/style.css">
+  <meta name="description" content="">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+  <meta property="og:image:alt" content="">
+
+  <link rel="icon" href="/favicon.ico" sizes="any">
+
+  <link rel="manifest" href="site.webmanifest">
+</head>
+
+<body>
+
+<header>
+  <h1>Headline</h1>
+  <nav>
+    <a>Nav Item</a>
+  </nav>
+</header>
+<main>
+  <header>
+    <h1>Header Headline</h1>
+  </header>
+  <section>
+    <h2>Smaller Headline</h2>
+    <p>Words</p>
+    <p>words</p>
+  </section>
+  <section>
+    <h2>Smaller headline</h2>
+    <p>words</p>
+    <p>words</p>
+  </section>
+</main>
+<footer>
+  <p>Footer content</p>
+</footer>
+</body>
+
+</html>
+
+{% endhighlight %}
