@@ -18,12 +18,12 @@ numberOfLatestPostsToShow: 3
 <p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
 {% endif %}
 
-<i>me</i>
+<div class="me"><i>me</i></div>
 <div class="profile-picture">
-	<a href="/">
-{% image "../content/blog/profile.png", "Morgan Murrah's profile picture", [300], "300px" %}
+<a href="/">
+{% image "../content/blog/profile.png", "Morgan Murrah's profile picture", [150], "150px" %}
 </a>
-
+</div>
 {# List every content page in the project #}
 {#
 <ul>

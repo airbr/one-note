@@ -4,6 +4,22 @@ picture img {
     height: auto;
 }
 
+.profile-picture {
+	text-align: center;
+}
+.me {
+	text-align: center;
+}
+
+footer {
+	padding: 10px;
+	text-align: center;
+}
+
+html {
+	background: linear-gradient(to top, rgb(183, 240, 166), #0828400d);
+}
+
 /* Defaults */
 :root {
 	--font-family: -apple-system, system-ui, sans-serif;
@@ -19,9 +35,9 @@ picture img {
 	--background-color: #fff;
 
 	--text-color: var(--color-gray-90);
-	--text-color-link: #082840;
+	--text-color-link: #231F20;
 	--text-color-link-active: #5f2b48;
-	--text-color-link-visited: #17050F;
+	--text-color-link-visited: #231F20;
 
 	--syntax-tab-size: 2;
 }
