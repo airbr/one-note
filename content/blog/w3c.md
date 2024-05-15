@@ -21,7 +21,6 @@ tags:
   * [v1.0-D5](https://github.com/w3c/sustyweb/releases/tag/v1.0-D5)
   * [v1.0-D6](https://github.com/w3c/sustyweb/releases/tag/v1.0-D6)
 
-  
 <div class="icon"><a href="https://www.w3.org/community/sustyweb/participants#:~:text=and%20nominate%20participant%3A-,Beau%20Murrah,-Individual%20CLA%20commitment" itemprop="sameAs" rel="me" class="u-url">
 <figure>
     <svg xmlns="http://www.w3.org/2000/svg"
