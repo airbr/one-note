@@ -1,3 +1,9 @@
+table td, table th {
+    border: 1px solid #cdcdcd;
+    padding: .5rem .75rem;
+    vertical-align: middle;
+}
+
 .postlist a {
 	/* flex: 1; */
 	text-decoration: underline;
