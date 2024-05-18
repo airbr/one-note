@@ -20,10 +20,10 @@ MDN states:
 
 > In [HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML), the **doctype** is the _required_ "`<!DOCTYPE html>`" preamble found at the top of all documents. Its sole purpose is to prevent a [browser](https://developer.mozilla.org/en-US/docs/Glossary/Browser) from switching into so-called ["quirks mode"](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode) when rendering a document; that is, the "`<!DOCTYPE html>`" doctype ensures that the browser makes a best-effort attempt at following the relevant specifications, rather than using a different rendering mode that is incompatible with some specifications.
 
-In times past, there were separate versions of web pages for different browsers.  Quirks mode is not a practice endorsed or considered modern at all given the rise of web standards, as basically no one does this page per website approach anymore. However, your website may work completely fine even without this supposedly required DocType.
+In times past, there were separate versions of web pages for different browsers.  Quirks mode is not a practice endorsed or considered modern at all given the rise of web standards, as basically no one does this approach anymore. However, your website may work completely fine even without this supposedly required DocType, as far anyone may experience it. 
 # A preamble for working on a commentary on HTML
 
-As I begin on a journey to working on a markdown file for every single HTML Element, I aim to add some sort of commentary, but won't strive for perfection. I just want to write something new every few days. 
+As I begin on a journey to working on a markdown file for every single HTML Element, I aim to add some sort of commentary, but won't strive for perfection. I just want to write something new every few days. I feel like this is consistent with what I am going to be discussing.
 ## Forward compatibility: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 Browsers will push forward the best they can even when they encounter things they don't understand in HTML and CSS like incorrect syntax. HTML, the markup language that is the foundation of web pages won't tell you if your tag is wrongly placed. The lesson here, it seems to some, is that **forgiveness by default is absolutely _required_ for the kind of large-scale, worldwide adoption that the web has enjoyed**.
