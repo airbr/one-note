@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "awards-certifications-misc.md",
+                "file": "every-html-element.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adc8c40b096a2356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doctype.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "awards-certifications-misc.md",
+                "file": "doctype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "awards-certifications-misc.md",
+                "file": "doctype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "awards-certifications-misc.md"
+                "file": "doctype.md"
               }
             }
           }
@@ -192,10 +204,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9dc98128c8ab2b13",
+  "active": "adc8c40b096a2356",
   "lastOpenFiles": [
-    "profile.png",
+    "every-html-element.md",
+    "doctype.md",
     "awards-certifications-misc.md",
+    "profile.png",
     "toolhouse.com.md",
     "rasp5.jpeg",
     "raspberry-pi.md",
