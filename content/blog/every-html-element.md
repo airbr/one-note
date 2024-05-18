@@ -20,11 +20,7 @@ tags:
 </p>. 
 This is only the beginning. I will aim to create a new original blog showing a description, source example and live example of each of the tags in action.
 </div>
-
-# Scroll the very finite scroll to see every HTML Element which I plan to make a post for!
-<br>
-<br>
-<h1>Attribution-ShareAlike 2.5 Generic License content - MDN</h1>
+<h1>Attribution-ShareAlike 2.5 Generic License content - Thank you MDN</h1>
 
 <div class="section-content">
 <div class="notecard note" id="sect1">

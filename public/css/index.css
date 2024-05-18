@@ -2,6 +2,12 @@ figure {
 	margin: 0px;
 }
 
+.flex-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
 
 table td, table th {
     border: 1px solid #cdcdcd;
@@ -11,12 +17,14 @@ table td, table th {
 
 .postlist a {
 	/* flex: 1; */
+	border-radius: 4px;
 	text-decoration: underline;
 	outline-color: transparent;
 	text-align: left;
-	line-height: 3;
+	line-height: 2;
 	color: black;
 	display: inline;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   }
   
   .postlist a:link,
