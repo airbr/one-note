@@ -43,4 +43,6 @@ What this lesson means to me is a reminder to focus on providing value even if t
 
 ## Conclusion
 
-The story of HTML is partly to forgive incompleteness and strongly encourage web standards.
+> 90% of all mobile pages use it—as the mobile data set is largest, this chapter will usually work with that data. Next most popular is XHTML 1.0 Transitional (3.9%, down from 4.6% in 2021). After that it’s no doctype being set at all at 2.7%, up from 2.5% last year. -- 2022 Web Almanac
+
+The story of HTML is partly to forgive incompleteness and strongly encourage web standards. [The Web Almanac has data on doctypes of websites for more information](https://almanac.httparchive.org/en/2022/markup#doctypes)
