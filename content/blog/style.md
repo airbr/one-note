@@ -51,6 +51,6 @@ This website, for example, uses static site generation to create a style tag wit
 curl --silent https://morganwebdev.com/blog/head/ | htmlq 'head'
 {% endhighlight %}
 
-You will see that the CSS is contained within a style tag in the head, rather than being linked by external stylesheets. This is also visible in the network tab of chrome dev tools.
+You will see that the CSS is contained within a style tag in the head, rather than being linked by external stylesheets. This is also visible in the network tab of your browsers dev tools.
 
-This technique has a history of varied attempts. AMP, the framework by Google, for example [required that all styles be defined in the `head` or  made inline](https://amp.dev/documentation/guides-and-tutorials/websites/develop/style_and_layout/#define-styles-in-head) in an attempt to take advantage of a performance boost from avoiding linking external resources. They also notably imposed a CSS content limit, later relaxed. Going over the CSS limit would fail the validator... [less forgiving of an approach than HTML](/blog/doctype/).
+This technique has a history of varied attempts. What is really a question is whether it is right for your system or generator. AMP, the framework by Google, for example [required that all styles be defined in the `head` or  made inline](https://amp.dev/documentation/guides-and-tutorials/websites/develop/style_and_layout/#define-styles-in-head) in an attempt to take advantage of a performance boost from avoiding linking external resources. They also notably imposed a CSS content limit, later relaxed. Going over the CSS limit would fail the validator... [less forgiving of an approach than HTML](/blog/doctype/).
