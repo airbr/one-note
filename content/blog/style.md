@@ -8,6 +8,7 @@ tags:
   - HTML
   - style
   - CSS
+  - Every HTML Element
 ---
 
 # The style tag in HTML is underrated

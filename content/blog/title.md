@@ -8,6 +8,7 @@ tags:
   - HTML
   - title
   - WCAG
+  - Every HTML Element
 ---
 
 #### Not a lot to comment on for this one.

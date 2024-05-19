@@ -10,6 +10,7 @@ tags:
   - HTMX
   - XHTML
   - DocType
+  - Every HTML Element
 ---
 
 # What is truly required of a [fault tolerant](https://en.wikipedia.org/wiki/Fault_tolerance) system?

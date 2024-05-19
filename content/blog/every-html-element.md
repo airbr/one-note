@@ -9,6 +9,7 @@ tags:
   - Elements
   - MDN
   - Creative Commons Attribution ShareAlike
+  - Every HTML Element
 ---
 {%- css %}{% include "public/css/message-box.css" %}{% endcss %}
 
