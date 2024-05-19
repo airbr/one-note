@@ -40,26 +40,6 @@ This is only the beginning. I will aim to create a new original blog showing a d
   </tbody>
 </table>
 
-<table>
-  <thead>
-    <tr>
-      <th>Source</th>
-      <th>Example</th>
-    </tr>
-  </thead>
-  <tbody>
-<tr>
-<td>
-{% highlight "html" %}
-<html></html>
-{% endhighlight %}
-</td>
-<td>This page </td>
-</tr>
-</tbody>
-</table>
-
-
 </figure></div></section><section aria-labelledby="document_metadata"><h2 id="document_metadata"><a href="#document_metadata">Document metadata</a></h2><div class="section-content"><p>Metadata contains information about the page. This includes information about styles, scripts and data to help software (<a href="https://developer.mozilla.org/en-US/docs/Glossary/Search_engine">search engines</a>, <a href="https://developer.mozilla.org/en-US/docs/Glossary/Browser">browsers</a>, etc.) use and render the page. Metadata for styles and scripts may be defined in the page or linked to another file that has the information.</p>
 <figure class="table-container"><table>
   <thead>
