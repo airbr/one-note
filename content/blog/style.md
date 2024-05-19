@@ -43,7 +43,7 @@ tags:
 
 Searching online for style tag or inline css and performance will bring up some mixed results. What you simply need to know is that content in style tags contained within the HTML document are loaded potentially faster than pulling an external file. 
 
-### All CSS in the head element = less render blocking resources to load, potentially optimizing this.
+### All CSS in the head element in a style tag = less extra render blocking resources to load, potentially creating an optimization.
 
 This website, for example, uses static site generation to create a style tag with all of the CSS desired from potentially many external files at build time. This is visible in a [waterfall of the response](https://www.webpagetest.org/result/240519_AiDcBT_2PM/1/details/#waterfall_view_step1) of the page for [head](/blog/head). Alternatively, you can use [htmlq](https://github.com/mgdm/htmlq) to query the head element of the `head` blog page:
 
