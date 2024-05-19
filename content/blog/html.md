@@ -1,6 +1,6 @@
 ---
 title: "<html>: The root of all things"
-date: 2024-05-18
+date: 2024-05-17
 time: 12:31
 draft: false
 tags:
@@ -14,7 +14,6 @@ tags:
   <thead>
     <tr>
       <th>Source</th>
-      <th>Example</th>
     </tr>
   </thead>
   <tbody>
@@ -24,7 +23,6 @@ tags:
 <html lang="en"></html>
 {% endhighlight %}
 </td>
-<td>This page </td>
 </tr>
 </tbody>
 </table>
