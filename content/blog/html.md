@@ -38,7 +38,7 @@ The end tag may be omitted if the `<html>` element is not immediately followed b
 WCAG Success Criterion 3.1.1 requires that a page language is specified in a way which may be 'programmatically determined' (i.e. via the lang attribute). **Remember to add a [`lang`](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang) attribute to the html root, for the language you are in, it can only help assist.** 
 
 ## An introduction into [Semantic HTML](https://developer.mozilla.org/en-US/curriculum/core/semantic-html/).
-There is a lot of ground to cover, but this criteria for a lang attribute is a hint to one of the guiding ideas of programattically helping accessibilility for humans and machines by writing _semantic_ HTML.
+There is a lot of ground to cover, but this criteria for a lang attribute is a hint to one of the guiding ideas of helping accessibilility for humans and machines by writing _semantic_ HTML.
 
 The value of read time, the amount of time it takes to read and understand code, is given a prominence in the commentary to come. If you are seeking curated, quality cut HTML continue along with the series of posts to come!
 
