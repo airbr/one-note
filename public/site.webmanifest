@@ -1,6 +1,7 @@
 {
-    "name": "Morganwebdev",
+    "name": "Morgan -- Writing about the Web",
     "short_name": "Morganwebdev",
+    "start_url": "/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -10,10 +11,17 @@
         {
             "src": "/android-chrome-256x256.png",
             "sizes": "256x256",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
         }
     ],
-    "theme_color": "#ffffff",
+    "theme_color": "rgb(183, 240, 166)",
     "background_color": "#ffffff",
     "display": "standalone"
 }
