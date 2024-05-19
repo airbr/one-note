@@ -37,7 +37,7 @@ tags:
 
 Try clicking some of the following if you want to get a quick insight into the head elements benefits and pitfalls:
 
-####  This option gives you a good ct.css report and shows you inlined styles and the performance measuring script used on morganwebdev.com. No warnings or errors.
+####  This option gives you a good ct.css report for the current page showing inline styles and a small script
 
 <div style="text-align: center; padding: 20px;">
 <a class="button green" style="font-weight: 700; max-width: 420px;
@@ -63,9 +63,32 @@ Visit a TEST badly ordered head element with lots of warnings.
 </a>
 </div>
 
-
-[Credit to Harry Roberts at CSS Wizardry](https://csswizardry.com/ct/).
-
+[Credit to Harry Roberts at CSS Wizardry for ct.css](https://csswizardry.com/ct/).
 
 
+# A starter head element for a webpage -- Inspired by HTML5 Boilerplate project.
 
+{% highlight "html" %}
+<head>
+  <!-- Get UTF-8, acquire emoji -->
+  <meta charset="utf-8">
+  <!-- Makes making a responsive webpage much easier -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Title in browser. Necessary. Important for SEO -->
+  <title>Title of webpage</title>
+  <!-- Important for SEO, previews -->
+  <meta name="description" content="">
+  <!-- These 5 are desirable for showing previews when site is linked on most media platforms -->
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+  <meta property="og:image:alt" content="">
+  <!-- Every site should really have a favicon -->
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <!-- Important for Progressive Web App features and more -->
+  <link rel="manifest" href="site.webmanifest">
+</head>
+{% endhighlight %}
+
+I will eventually get into more of these tags, and CSS eventually, but for now we have a working head element!
