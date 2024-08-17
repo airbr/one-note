@@ -42,6 +42,28 @@
 		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 		<meta name="msapplication-TileColor" content="#da532c">
 		<meta name="theme-color" content="#ffffff">
+		<script type="speculationrules">
+		{
+			"prerender": [
+			{
+				"where": {
+				"and": [
+					{ "href_matches": "/*" },
+					{ "not": { "selector_matches": ".no-prerender" } },
+					{ "not": { "selector_matches": "[rel~=nofollow]" } }
+				]
+				}
+			}
+			],
+			"prefetch": [
+			{
+				"urls": ["/about/", "/blog/"],
+				"requires": ["anonymous-client-ip-when-cross-origin"],
+				"referrer_policy": "no-referrer"
+			}
+			]
+		}
+		</script>
 	</head>
 	<body>
 		<a href="#skip" class="visually-hidden">Skip to main content</a>

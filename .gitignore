@@ -2,3 +2,7 @@ _site/
 node_modules/
 package-lock.json
 .cache
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
